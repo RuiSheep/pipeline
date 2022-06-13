@@ -1,0 +1,1 @@
+pipeline : colmap + cascade + gipuma + openmvs
